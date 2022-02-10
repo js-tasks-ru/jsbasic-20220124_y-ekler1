@@ -7,5 +7,3 @@ function filterRange(arr, a, b) {
 
 let filtered = filterRange(arr, 1, 4);
 
-console.log( filtered ); // [3,1] (совпадающие значения)
-console.log( arr );
